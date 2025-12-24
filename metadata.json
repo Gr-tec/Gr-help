@@ -1,0 +1,7 @@
+{
+  "name": "A.M.C CONSTRUÇÕES E SERVIÇOS, LDA - Plataforma Digital",
+  "description": "Uma plataforma profissional para divulgação de serviços de construção civil e produção industrial de blocos de alta resistência.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
